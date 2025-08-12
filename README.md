@@ -47,8 +47,8 @@
 <ul>
   <li>📧 <strong>Email:</strong> <a href="mailto:Tcodeshelby@gmail.com" target="_blank">Tcodeshelby@gmail.com</a></li>
   <li>🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/deepakab" target="_blank" rel="noopener noreferrer">linkedin.com/in/deepakab</a></li>
-  <li>🐦 <strong>Twitter:</strong> <a href="https://twitter.com/deepakab_dev" target="_blank" rel="noopener noreferrer">twitter.com/deepakab_dev</a></li>
-  <li>🌐 <strong>Portfolio:</strong> <a href="https://deepakab56.github.io" target="_blank" rel="noopener noreferrer">deepakab56.github.io</a></li>
+  <li>🐦 <strong>Twitter:</strong> <a href="https://twitter.com/deepakab_" target="_blank" rel="noopener noreferrer">twitter.com/deepakab_</a></li>
+  <li>🌐 <strong>Portfolio:</strong> <a href="https://github.com/TcodeX56" target="_blank" rel="noopener noreferrer">deepakab56</a></li>
 </ul>
 
 

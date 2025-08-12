@@ -45,7 +45,7 @@
   Feel free to reach out for project collaborations, freelance opportunities, or technical discussions:
 </p>
 <ul>
-  <li>📧 <strong>Email:</strong> example@gmail.com</li>
+<li>📧 <strong>Email:</strong> <a href="mailto:Tcodeshelby@gmail.com">Tcodeshelby@gmail.com</a></li>
   <li>🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/deepakab" target="_blank">Deepak AB</a></li>
   <li>🐦 <strong>Twitter:</strong> <a href="https://twitter.com/deepakab_dev" target="_blank">@deepakab_dev</a></li>
   <li>🌐 <strong>Portfolio:</strong> <a href="https://deepakab56.github.io" target="_blank">deepakab56.github.io</a></li>

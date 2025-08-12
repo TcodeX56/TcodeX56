@@ -1,5 +1,64 @@
-# 💫 About Me:
-## Hi there 👋,<br><br>### I'm Deepak AB, a blockchain developer with 2 years of experience in the field.<br><br>---<br><br>## 🧐 About Me<br><br>- 🌐 Passionate blockchain developer with expertise in Rust, TypeScript, Solidity, and JavaScript<br>- 🔗 Currently focused on decentralized applications and smart contract development<br>- 🚀 Active contributor to blockchain-related projects like NFT-Minter, SPL-token-Anchor, and Voting-System<br>- 💻 Proficient in both backend and frontend development aspects<br>- 🤝 Strong advocate for collaboration and open-source contributions<br>- 📈 Consistent commitment to code development and maintenance with 12 commits<br><br>---<br><br>### GitHub Stats<br><br>![Github Stats](https://github-readme-stats.vercel.app/api?username=deepakab56)<br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakab56)<br>[![trophy](https://github-profile-trophy.vercel.app/?username=deepakab56)](https://github.com/deepakab56)<br>[![GitHub Streak](https://streak-stats.demolab.com/?user=deepakab56)](https://git.io/streak-stats)<br><br>---<br><br>### Projects Showcase<br><br>- Exemplary blockchain-related projects showcasing expertise in Rust, TypeScript, Solidity, and JavaScript<br>- Innovative contributions in NFT-Minter, SPL-token-Anchor, and Voting-System repositories<br>- Demonstrated passion for decentralized applications and smart contract development<br><br>---<br><br>### Get In Touch<br><br>For collaboration opportunities, project suggestions, or discussions:<br>- 📧 Email: example@gmail.com<br>- 🔗 LinkedIn: [Deepak AB](https://www.linkedin.com/in/deepakab)<br>- 🐦 Twitter: [@deepakab_dev](https://twitter.com/deepakab_dev)<br>- 📱 Portfolio: [deepakab56.github.io](https://deepakab56.github.io)<br><br>---<br><br>### Let's Connect!<br><br>If you're interested in blockchain development, innovative projects, or collaborative opportunities, don't hesitate to reach out. I'm always open to new adventures and challenges in the blockchain space.<br><br>Looking forward to the next groundbreaking project together! 🚀<br><br>---
+<!-- GitHub Profile README in HTML Format -->
+<h1>💫 About Me</h1>
+
+<h2>Hi there 👋</h2>
+<p><strong>I'm Deepak AB</strong>, a dedicated <strong>Blockchain Developer</strong> with over <strong>2 years of hands-on experience</strong> in building secure, efficient, and scalable decentralized applications.</p>
+
+<hr>
+
+<h2>🧐 Who Am I?</h2>
+<ul>
+  <li>🌐 Passionate about the future of decentralized systems and Web3 technologies</li>
+  <li>🛠️ Proficient in <strong>Rust, TypeScript, Solidity, and JavaScript</strong></li>
+  <li>🔗 Focused on <strong>smart contract development</strong> and full-stack blockchain solutions</li>
+  <li>🚀 Contributor to notable open-source projects: <strong>NFT-Minter, SPL-token-Anchor, Voting-System</strong></li>
+  <li>💻 Skilled in both backend and frontend development for blockchain apps</li>
+  <li>🤝 Advocate for <strong>open-source collaboration</strong> and continuous learning</li>
+</ul>
+
+<hr>
+
+<h2>📈 GitHub Stats</h2>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=deepakab56&show_icons=true&theme=tokyonight" alt="Deepak AB's GitHub Stats">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakab56&layout=compact&theme=tokyonight" alt="Top Languages">
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=deepakab56" alt="GitHub Trophies">
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=deepakab56&theme=tokyonight" alt="GitHub Streak">
+</p>
+
+<hr>
+
+<h2>🚀 Featured Projects</h2>
+<ul>
+  <li><strong>NFT-Minter</strong>: Tool for minting NFTs on-chain with metadata support</li>
+  <li><strong>SPL-token-Anchor</strong>: Solana-based project utilizing Anchor framework</li>
+  <li><strong>Voting-System</strong>: Secure and transparent decentralized voting application</li>
+</ul>
+
+<hr>
+
+<h2>📬 Get in Touch</h2>
+<p>
+  Feel free to reach out for project collaborations, freelance opportunities, or technical discussions:
+</p>
+<ul>
+  <li>📧 <strong>Email:</strong> example@gmail.com</li>
+  <li>🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/deepakab" target="_blank">Deepak AB</a></li>
+  <li>🐦 <strong>Twitter:</strong> <a href="https://twitter.com/deepakab_dev" target="_blank">@deepakab_dev</a></li>
+  <li>🌐 <strong>Portfolio:</strong> <a href="https://deepakab56.github.io" target="_blank">deepakab56.github.io</a></li>
+</ul>
+
+<hr>
+
+<h2>🤝 Let's Connect!</h2>
+<p>
+  If you're passionate about blockchain innovation, DeFi, NFTs, or any Web3 initiative, let’s collaborate! I’m always open to exciting opportunities and meaningful projects in the decentralized space.
+</p>
+<p>Looking forward to building the future — one block at a time. 🚀</p>
+
 
 
 ## 🌐 Socials:

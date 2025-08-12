@@ -45,11 +45,12 @@
   Feel free to reach out for project collaborations, freelance opportunities, or technical discussions:
 </p>
 <ul>
-<li>📧 <strong>Email:</strong> <a href="mailto:Tcodeshelby@gmail.com">Tcodeshelby@gmail.com</a></li>
-  <li>🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/deepakab" target="_blank">Deepak AB</a></li>
-  <li>🐦 <strong>Twitter:</strong> <a href="https://twitter.com/deepakab_dev" target="_blank">@deepakab_dev</a></li>
-  <li>🌐 <strong>Portfolio:</strong> <a href="https://deepakab56.github.io" target="_blank">deepakab56.github.io</a></li>
+  <li>📧 <strong>Email:</strong> <a href="mailto:Tcodeshelby@gmail.com" target="_blank">Tcodeshelby@gmail.com</a></li>
+  <li>🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/deepakab" target="_blank" rel="noopener noreferrer">linkedin.com/in/deepakab</a></li>
+  <li>🐦 <strong>Twitter:</strong> <a href="https://twitter.com/deepakab_dev" target="_blank" rel="noopener noreferrer">twitter.com/deepakab_dev</a></li>
+  <li>🌐 <strong>Portfolio:</strong> <a href="https://deepakab56.github.io" target="_blank" rel="noopener noreferrer">deepakab56.github.io</a></li>
 </ul>
+
 
 <hr>
 

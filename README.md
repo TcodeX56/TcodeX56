@@ -2,7 +2,7 @@
 <h1>💫 About Me</h1>
 
 <h2>Hi there 👋</h2>
-<p><strong>I'm Deepak AB</strong>, a dedicated <strong>Blockchain Developer</strong> with over <strong>2 years of hands-on experience</strong> in building secure, efficient, and scalable decentralized applications.</p>
+<p><strong>I'm tcode X</strong>, a dedicated <strong>Blockchain Developer</strong> with over <strong>2 years of hands-on experience</strong> in building secure, efficient, and scalable decentralized applications.</p>
 
 <hr>
 

@@ -19,7 +19,7 @@
 <hr>
 
 <h2>📈 GitHub Stats</h2>
-<p>
+<!-- <p>
   <img src="https://github-readme-stats.vercel.app/api?username=deepakab56&show_icons=true&theme=tokyonight" alt="Deepak AB's GitHub Stats">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepakab56&layout=compact&theme=tokyonight" alt="Top Languages">
@@ -27,7 +27,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=deepakab56" alt="GitHub Trophies">
   <br>
   <img src="https://streak-stats.demolab.com/?user=deepakab56&theme=tokyonight" alt="GitHub Streak">
-</p>
+</p> -->
 
 <hr>
 
@@ -44,12 +44,12 @@
 <p>
   Feel free to reach out for project collaborations, freelance opportunities, or technical discussions:
 </p>
-<ul>
+<!-- <ul>
   <li>📧 <strong>Email:</strong> <a href="mailto:Tcodeshelby@gmail.com" target="_blank">Tcodeshelby@gmail.com</a></li>
   <li>🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/deepakab" target="_blank" rel="noopener noreferrer">linkedin.com/in/deepakab</a></li>
   <li>🐦 <strong>Twitter:</strong> <a href="https://twitter.com/deepakab_" target="_blank" rel="noopener noreferrer">twitter.com/deepakab_</a></li>
   <li>🌐 <strong>Portfolio:</strong> <a href="https://github.com/TcodeX56" target="_blank" rel="noopener noreferrer">deepakab56</a></li>
-</ul>
+</ul> -->
 
 
 <hr>
